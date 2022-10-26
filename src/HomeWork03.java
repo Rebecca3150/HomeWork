@@ -22,5 +22,6 @@ public class HomeWork03 {
         System.out.print("结果3");
         System.out.print("master test");
         System.out.print("push test");
+        System.out.print("pull test");
     }
 }
