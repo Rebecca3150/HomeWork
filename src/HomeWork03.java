@@ -19,5 +19,6 @@ public class HomeWork03 {
         }
         System.out.print("结果");
         System.out.print("结果2");
+        System.out.print("结果3");
     }
 }
